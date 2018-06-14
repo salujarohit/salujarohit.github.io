@@ -5,7 +5,7 @@ $name = $_REQUEST['name']; //
 $email = $_REQUEST['email']; //
 $message = $_REQUEST['message'];
 $subject = 'Message from website';//. $subject;
-$to = 'info@dhirajsharma.com'; // change email
+$to = 'rohitsaluja94@gmail.com'; // change email
 
      $headers="From: {$email}\r\nReply-To: {$email}";
     mail($to,$subject,$message,$headers);
