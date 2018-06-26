@@ -49,7 +49,7 @@
       <find>home</find>
       <find>about</find>
       <find>Pers</find>
-      <find>rohit sa</find>
+      <find />
       <find>conta</find>
       <find>ROHIT</find>
       <find>HO</find>
@@ -86,8 +86,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="168" />
-    <option name="y" value="91" />
+    <option name="x" value="121" />
+    <option name="y" value="56" />
     <option name="width" value="1260" />
     <option name="height" value="689" />
   </component>
