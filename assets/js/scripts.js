@@ -231,10 +231,10 @@ Version      : 1.0
                 }
             }
             // INJECT CSS
-            var css = document.createElement("style");
-            css.type = "text/css";
-            css.innerHTML = ".typewrite > .wrap { border-right: 0.02em solid #fff}";
-            document.body.appendChild(css);
+            // var css = document.createElement("style");
+            // css.type = "text/css";
+            // css.innerHTML = ".typewrite > .wrap { border-right: 0.02em solid #fff}";
+            // document.body.appendChild(css);
         };
 
 
