@@ -483,12 +483,12 @@ fieldset {
 
 .service-area {}
 
-.single-service i {
+.single-service i, img {
     font-size: 40px;
     margin-bottom: 10px;
     -webkit-transition: .3s;
     transition: .3s;
-    background: #F5F5F5;
+    background: #FFFFFF;
     height: 80px;
     width: 80px;
     border-radius: 50%;
@@ -498,6 +498,7 @@ fieldset {
     float: left;
     margin-right: 25px;
     margin-bottom: 50px;
+    object-fit:cover;
 }
 
 .single-service h2 {
@@ -513,6 +514,7 @@ fieldset {
 
 .single-service p {
     color: #232323;
+    line-height: 20px;
 }
 
 
