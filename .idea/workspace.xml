@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa8d5a7e-7afe-41bc-a153-e0c60cd2be14" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/images/School/Aalto.png" beforeDir="false" />
-    </list>
+    <list default="true" id="fa8d5a7e-7afe-41bc-a153-e0c60cd2be14" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -49,7 +47,7 @@
       <find>home</find>
       <find>about</find>
       <find>Pers</find>
-      <find />
+      <find>rohit sa</find>
       <find>conta</find>
       <find>ROHIT</find>
       <find>HO</find>
@@ -170,15 +168,15 @@
       <workItem from="1529005740093" duration="46000" />
       <workItem from="1529005848234" duration="1098000" />
       <workItem from="1529134767246" duration="7685000" />
-      <workItem from="1529658687553" duration="13802000" />
+      <workItem from="1529658687553" duration="14060000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22631000" />
+    <option name="totallyTimeSpent" value="22889000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="168" y="91" width="1260" height="689" extended-state="0" />
+    <frame x="121" y="56" width="1260" height="689" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
