@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa8d5a7e-7afe-41bc-a153-e0c60cd2be14" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/School/Aalto.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,7 +19,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
+            <state relative-caret-position="581">
               <caret line="227" column="39" selection-start-line="227" selection-start-column="39" selection-end-line="227" selection-end-column="39" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -170,12 +170,12 @@
       <workItem from="1529005740093" duration="46000" />
       <workItem from="1529005848234" duration="1098000" />
       <workItem from="1529134767246" duration="7685000" />
-      <workItem from="1529658687553" duration="13498000" />
+      <workItem from="1529658687553" duration="13802000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22327000" />
+    <option name="totallyTimeSpent" value="22631000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="168" y="91" width="1260" height="689" extended-state="0" />
@@ -294,7 +294,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="581">
           <caret line="227" column="39" selection-start-line="227" selection-start-column="39" selection-end-line="227" selection-end-column="39" />
           <folding>
             <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
